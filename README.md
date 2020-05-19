@@ -16,7 +16,7 @@ Distribute the card to four player equally.
 ## The Play:
 Every player playes one card of the same color as that played by the first player. In every round the player who plays the highest value of that color collects the hand. In the absence of that color card player can play a card of any other color but its values is not considerd. Round is complete once all players play the card and the player with highes value has collected the hand.
 
-## Requirement:
+## Requirements:
 1. Restful API consumption from deck of card api. Use the deck of card api: https://deckofcardsapi.com/ 
 2. Basic UI with one playing table and four players
 3. Transition from play area to the score board screen
